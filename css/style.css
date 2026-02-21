@@ -67,7 +67,7 @@ body .heading-main,
 
 body {
 	min-width: 270px;
-	font-family: 'Open Sans', sans-serif;
+  font-family: "EB Garamond", serif;
 }
 
 #mask {
@@ -80,11 +80,10 @@ body {
 }
 
 .elem-tray {
-	font-family: 'Roboto Mono', monospace;
+  font-family: "EB Garamond", serif;
 	color:#63707e;
   padding-top: 20px;
 	font-size: 14px;
-	text-transform: lowercase;
 }
 
 #intro {
@@ -138,7 +137,7 @@ body {
   	width: 100%;
   	height: 24px;
   	color: #ffffff;
-		font-family: 'Roboto Mono', monospace;
+		font-family: "EB Garamond", serif;
   	font-size: 32px;
   	display: none;
   	z-index: 5;
@@ -146,10 +145,9 @@ body {
 
 .project-title {
 	color: #ffffff;
-	font-family: 'Roboto Mono', monospace;
+  font-family: "EB Garamond", serif;
 	font-size: 13px;
 	margin: 10px 0;
-	text-transform: lowercase;
 }
 
 .portfolio-element div:hover ~ img {
@@ -186,10 +184,9 @@ body {
 
 .heading-main {
 	animation: 0.7s ease-out 0s 1 slideFadeInFromTop;
-	font-family: 'Roboto Mono', monospace;
+  font-family: "EB Garamond", serif;
 	color:#63707e;
 	font-size: 30px;
-	text-transform: lowercase;
 }
 
 .heading-sub {
@@ -200,13 +197,13 @@ body {
 /* PARAGRAPHS */
 
 .para-main {
-  font-size: 14px;
-  line-height: 28px;
+  font-size: 16px;
+  line-height: 32px;
   font-weight: 300;
 }
 
 .para-alt {
-	font-family: 'Roboto Mono', monospace;
+  font-family: "EB Garamond", serif;
 	font-size: 14px;
   line-height: 28px;
 	font-weight: 300;
@@ -286,7 +283,7 @@ body {
 	z-index: 6;
 	color: white;
 	font-weight: bold;
-	font-family: 'Roboto Mono', monospace;
+  font-family: "EB Garamond", serif;
 	text-align: center;
 	font-size: 24px;
 	line-height: 50px;
