@@ -10,7 +10,7 @@ const NUM_BACKGROUNDS = 50;
 const MIN_EMOJI_SIZE = 10;
 const EMOJI_MULTIPLIER = 28;
 const TRAIL_SPACING = 8;
-const TRAIL_FADE_MS = 1200;
+const TRAIL_FADE_MS = 400;
 let lastTrailX = null;
 let lastTrailY = null;
 
